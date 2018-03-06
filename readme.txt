@@ -1,0 +1,1 @@
+Put your IMDB api key in 'API_KEY' attribute in NetworkUtils.java file.
